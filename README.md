@@ -1,2 +1,1 @@
-# webpack_study
-for learn webpack knowledge
+webpack pack relative
